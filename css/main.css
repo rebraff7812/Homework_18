@@ -128,7 +128,7 @@
   .row {
     display: flex;
     flex-direction: row;
-    height: 420x;
+    height: 420px;
     width: 100%;
     margin-left: 200px;
     margin-bottom: 100px;
@@ -153,7 +153,7 @@
   .research {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     border-style: solid;
     border-color:#00698A;
@@ -163,7 +163,7 @@
   .definition {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     margin-left: 120px;
     border-style: solid;
@@ -173,7 +173,7 @@
   .prototyping {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     margin-left: 120px;
     border-style: solid;
