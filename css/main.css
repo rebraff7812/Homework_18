@@ -153,7 +153,7 @@
   .research {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     border-style: solid;
     border-color:#00698A;
@@ -163,7 +163,7 @@
   .definition {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     margin-left: 120px;
     border-style: solid;
@@ -173,7 +173,7 @@
   .prototyping {
     margin-top: 20px;
     background-color: #E8F2EF;
-    width: 15%;
+    width: 20%;
     height: 400px;
     margin-left: 120px;
     border-style: solid;
@@ -194,7 +194,7 @@
     margin: 0px 5%;
     margin-top: 0px;
     margin-bottom: 100px;
-    height:2000px;
+    height: 2300px;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr;
@@ -358,6 +358,7 @@
     }
     .row {
       display: flex;
+      height: 1300px;
       flex-direction: column;
       margin-left: 0px;
       align-items: flex-start;
